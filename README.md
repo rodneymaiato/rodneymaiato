@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rod Maiato.
+- 👋 Hi, I’m @rodneymaiato
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning PHP and Javascript.
 - 💞️ I’m looking to collaborate on creating Wordpress themes.
