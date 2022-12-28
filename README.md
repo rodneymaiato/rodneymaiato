@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @rodneymaiato
-- 🌱 Learning PHP and Javascript.
+
 
 
 <!---
